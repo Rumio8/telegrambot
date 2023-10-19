@@ -1,2 +1,2 @@
 # telegrambot
-Bot for generate url
+Bot for generate payment luchiycinema.pro
